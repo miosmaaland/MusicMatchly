@@ -1,0 +1,6 @@
+@MusicMatchly.Api_HostAddress = http://localhost:5113
+
+GET {{MusicMatchly.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
